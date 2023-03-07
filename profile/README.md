@@ -12,9 +12,9 @@ Bitcoin Nova is cash for a connected world. It’s fast, private, and secure. Wi
 ## Resources
 - Web: https://bitcoinnova.github.io
 - Explorer: https://bitcoinnova.github.io/bitcoinnova-explorer
-- Wallet (CLI): https://github.com/BitcoinNova/bitcoinnova/releases/tag/v0.18.1
+- Wallet (CLI): https://github.com/BitcoinNova/bitcoinnova/releases/tag/v0.28.3
 - Wallet (Gui):
-   - Bitcoin Nova Sonic Wallet (Suggested): https://github.com/BitcoinNova/bitcoinnova-sonic-wallet/releases/tag/v1.1.0
+   - Bitcoin Nova Sonic Wallet (Suggested): https://github.com/BitcoinNova/bitcoinnova-sonic-wallet/releases/tag/v3.5.0
    - Bitcoin Nova Wallet Electron: https://github.com/BitcoinNova/bitcoinnova-wallet-electron/releases/tag/v0.3.12
    - Bitcoin Nova Mobile for Android:  https://play.google.com/store/apps/details?id=com.bitcoinnova.mobile
 - Paper Wallet: https://bitcoinnova.github.io/bitcoinnova-paper-wallet
